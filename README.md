@@ -1,7 +1,7 @@
 
 # Hospital Management System
 
-This project was built by using python and mySQL by me and my friend during our high school days. 
+This project was built by using python and mySQL by me and my friend during our high school days.
 
 
 ## Features
@@ -66,4 +66,4 @@ Using the program
 
 ## Authors
 
-- [@tenzing](https://www.github.com/10zing)
+- [@tenzing](https://www.github.com/10-zing)
