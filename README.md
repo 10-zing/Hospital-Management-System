@@ -66,4 +66,4 @@ Using the program
 
 ## Authors
 
-- [@tenzing](https://www.github.com/10-zing)
+- [@10-zing](https://www.github.com/10-zing)
