@@ -1005,7 +1005,7 @@ while True:
         print('Developers:')
         print('1. Tenzing Rabgay Bhutia, Stream: Science, Section:A')
         print('2. Samson Raj, Stream: Science, Section:A')
-        print("**** THANK YOU FOR USING CITY HOSPITAL MANAGEMENT SYSTEM ****")
+        print("**** THANK YOU FOR USING HOSPITAL MANAGEMENT SYSTEM ****")
         print('*************************************************************')
 
         break
