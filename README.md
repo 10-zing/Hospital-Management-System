@@ -67,3 +67,4 @@ Using the program
 ## Authors
 
 - [@10-zing](https://www.github.com/10-zing)
+- [@Samson](https://www.github.com/sammsonr)
